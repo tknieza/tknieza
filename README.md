@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**tknieza/tknieza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tadas, a Junior Software Engineer studying Computer Science in the UK, with industry experience in software product testing, validation and general SQA for software products built with web technologies.
 
-Here are some ideas to get you started:
+Technologies I tend to work with the most include JavaScript, HTML, CSS with a focus on related frameworks React, Gatsby, Next.js & Cypress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some facts about me:
+
+- 🔭 I’m currently working on my internship at Boeing
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on small, up-and-coming projects
+- 🤔 I’m looking for help with AWS, Docker, Kubernetes, the whole sha-bang
+- 📫 How to reach me: by email
